@@ -1,14 +1,14 @@
 # Site
 title:              蓝琳玲
 bio:                '一个画风鬼畜，脑回路清奇的Programmer'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        "(～￣▽￣)～啦啦啦"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://bluemomo112.github.io/Moon
+url:                https://bluemomo112.github.io
 
 # Jekyll
 permalink:          /:title/
