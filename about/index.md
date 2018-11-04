@@ -27,15 +27,16 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
+<hr>
 
 ## 你可能不在意的题外话
 
 * 对ACGN都非常喜欢。新番？必追的。游戏？常玩的。
 > 索尼大法好！
-<img>http://p2.music.126.net/IbykphxwxSzJcpjS3FKNFg==/17646062114255277.jpg</img>
+<img src="http://p2.music.126.net/IbykphxwxSzJcpjS3FKNFg==/17646062114255277.jpg"></img>
 * 最喜欢的动画公司是京阿尼！一家有情怀的公司，一家仍旧怀有匠人精神做动画的公司。<del>最重要是作画爆炸</del>
 * 最喜欢的运动是滑板和棒球!
 
-<img>https://i2.wp.com/myanimeost.net/wp-content/uploads/2018/01/Violet-Evergarden-Opening-Ending-OST-Download.png?fit=1393%2C892&ssl=1</img>
+<img src="https://i2.wp.com/myanimeost.net/wp-content/uploads/2018/01/Violet-Evergarden-Opening-Ending-OST-Download.png?fit=1393%2C892&ssl=1"></img>
 
 
