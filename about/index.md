@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: 绝密人物档案：蓝琳玲
 tags: [about, Jekyll, theme, moon]
 date: 2018-10-31
 comments: false
