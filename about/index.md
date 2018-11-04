@@ -6,7 +6,7 @@ date: 2018-10-31
 comments: false
 ---
     
-<center>欢迎访问我的<b>Github账户</b>：<a href="https://github.com/bluemomo112"> </a>你大概会看到一些颇为神奇的代码使用方式【别晕过去！】</center>
+<center>欢迎访问我的<b>Github账户<a href="https://github.com/bluemomo112"></a></b>：你大概会看到一些颇为神奇的代码使用方式【别晕过去！】</center>
 
 ## 用来求<del>勾搭</del>职的自我介绍
 
