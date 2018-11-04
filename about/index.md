@@ -6,7 +6,7 @@ date: 2018-10-31
 comments: false
 ---
     
-<center>欢迎访问我的<b><a href="https://github.com/bluemomo112">Github账户</a></b>,你大概会看到一些颇为神奇的代码使用方式【别晕过去！】</center>
+<center> 欢迎访问我的 <a href="https://github.com/bluemomo112"> <b>Github账户</b> </a> ,你大概会看到一些颇为神奇的代码使用方式【别晕过去！】</center>
 
 ## 用来求<del>勾搭</del>职的自我介绍
 
@@ -21,16 +21,21 @@ comments: false
 * 希望能把Python（代码）的魅力更多的传达出去! 
 
 
+{% capture images %}
+    https://img.moegirl.org/common/thumb/c/c0/Python.jpg/250px-Python.jpg
+    https://img.moegirl.org/common/thumb/c/c1/JavaScript.jpg/250px-JavaScript.jpg
+{% endcapture %}
+{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+
+
 ## 你可能不在意的题外话
 
 * 对ACGN都非常喜欢。新番？必追的。游戏？常玩的。
 > 索尼大法好！
+<img>http://p2.music.126.net/IbykphxwxSzJcpjS3FKNFg==/17646062114255277.jpg</img>
 * 最喜欢的动画公司是京阿尼！一家有情怀的公司，一家仍旧怀有匠人精神做动画的公司。<del>最重要是作画爆炸</del>
 * 最喜欢的运动是滑板和棒球!
 
-{% capture images %}
-    https://img.moegirl.org/common/thumb/c/c0/Python.jpg/250px-Python.jpg
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=1 %}
+<img>https://i2.wp.com/myanimeost.net/wp-content/uploads/2018/01/Violet-Evergarden-Opening-Ending-OST-Download.png?fit=1393%2C892&ssl=1</img>
 
 
